@@ -1,0 +1,2 @@
+# HideMyAssProxyScrapper
+This is a proxy scrapper for https://www.hidemyass.com/ website that provides free list of proxies. It uses javascript for scrapping the proxies from the following URL : http://proxylist.hidemyass.com/ . This is a beta version and verified on 23/07/2016. If you find any bugs or need any improvements, please feel free to contact me. I would be more than happy to implement it.
